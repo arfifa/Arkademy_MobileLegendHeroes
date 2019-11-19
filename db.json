@@ -1,0 +1,36 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Eudora",
+      "title": "Lighting Sorceress",
+      "imageUri": "https://4.bp.blogspot.com/-K6E3gykSVHA/W1HBV2tmn-I/AAAAAAAADfY/38PgfIsqQVA-dYnN5oWEhaVUeoUba9PmACLcBGAs/s1600/eudora.png",
+      "role": "Mage",
+      "speciality": "nothing"
+    },
+    {
+      "id": 2,
+      "name": "Miya",
+      "title": "Moonlight Archer",
+      "imageUri": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22ba8af1-9afe-4a42-8798-aa2a150683e0/dc0s3zh-9b34ece8-87ca-4f76-b831-5269b3257506.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyYmE4YWYxLTlhZmUtNGE0Mi04Nzk4LWFhMmExNTA2ODNlMFwvZGMwczN6aC05YjM0ZWNlOC04N2NhLTRmNzYtYjgzMS01MjY5YjMyNTc1MDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MZLOQh9K8e0mWsGNBE1SkstVt-L7PsvHp9cscpQZDrw",
+      "role": "archer",
+      "speciality": "nothing"
+    },
+    {
+      "id": 3,
+      "name": "karina",
+      "title": "Shadow Blade",
+      "imageUri": "https://cdn130.picsart.com/296051994166211.png?r1024x1024",
+      "role": "assains",
+      "speciality": "nothing"
+    },
+    {
+      "name": "Arfifa Rahman ingin sendiri",
+      "imageUri": "Smiling Icon",
+      "title": "Backing Vocal Artis Sinetron",
+      "role": "Mage ",
+      "speciality": "Bersyukur \u0013",
+      "id": 1574114658493
+    }
+  ]
+}
